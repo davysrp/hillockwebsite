@@ -1,0 +1,237 @@
+[
+    {
+        "model-name": "Bank",
+        "resource-file": "banks.json",
+        "table-name": "banks"
+    },
+    {
+        "model-name": "LotteryPrize",
+        "resource-file": "lottery_prizes.json",
+        "table-name": "lottery_prizes"
+    },
+    {
+        "model-name": "User",
+        "resource-file": "users.json",
+        "table-name": "users"
+    },
+    {
+        "model-name": "Balance",
+        "resource-file": "balances.json",
+        "table-name": "balances"
+    },
+    {
+        "model-name": "Withdraw",
+        "resource-file": "withdraws.json",
+        "table-name": "withdraws"
+    },
+    {
+        "model-name": "Prmotion",
+        "resource-file": "prmotions.json",
+        "table-name": "prmotions"
+    },
+    {
+        "model-name": "Promotion",
+        "resource-file": "promotions.json",
+        "table-name": "promotions"
+    },
+    {
+        "model-name": "MenuBar",
+        "resource-file": "menu_bars.json",
+        "table-name": "menu_bars"
+    },
+    {
+        "model-name": "Label",
+        "resource-file": "labels.json",
+        "table-name": "labels"
+    },
+    {
+        "model-name": "Results",
+        "resource-file": "results.json",
+        "table-name": "results"
+    },
+    {
+        "model-name": "TypeLabel",
+        "resource-file": "type_labels.json",
+        "table-name": "type_labels"
+    },
+    {
+        "model-name": "Slot",
+        "resource-file": "slots.json",
+        "table-name": "slots"
+    },
+    {
+        "model-name": "Sport",
+        "resource-file": "sports.json",
+        "table-name": "sports"
+    },
+    {
+        "model-name": "Casino",
+        "resource-file": "casinos.json",
+        "table-name": "casinos"
+    },
+    {
+        "model-name": "Category",
+        "resource-file": "categories.json",
+        "table-name": "categories"
+    },
+    {
+        "model-name": "Product",
+        "resource-file": "products.json",
+        "table-name": "products"
+    },
+    {
+        "model-name": "ProductPhoto",
+        "resource-file": "product_photos.json",
+        "table-name": "product_photos"
+    },
+    {
+        "model-name": "ProductColor",
+        "resource-file": "product_colors.json",
+        "table-name": "product_colors"
+    },
+    {
+        "model-name": "ProductSize",
+        "resource-file": "product_sizes.json",
+        "table-name": "product_sizes"
+    },
+    {
+        "model-name": "Payment",
+        "resource-file": "payments.json",
+        "table-name": "payments"
+    },
+    {
+        "model-name": "Coupon",
+        "resource-file": "coupons.json",
+        "table-name": "coupons"
+    },
+    {
+        "model-name": "ProductReview",
+        "resource-file": "product_reviews.json",
+        "table-name": "product_reviews"
+    },
+    {
+        "model-name": "Admin",
+        "resource-file": "admins.json",
+        "table-name": "admins"
+    },
+    {
+        "model-name": "BlogCategory",
+        "resource-file": "blog_categories.json",
+        "table-name": "blog_categories"
+    },
+    {
+        "model-name": "Blog",
+        "resource-file": "blogs.json",
+        "table-name": "blogs"
+    },
+    {
+        "model-name": "Province",
+        "resource-file": "provinces.json",
+        "table-name": "provinces"
+    },
+    {
+        "model-name": "Feature",
+        "resource-file": "features.json",
+        "table-name": "features"
+    },
+    {
+        "model-name": "Amenity",
+        "resource-file": "amenities.json",
+        "table-name": "amenities"
+    },
+    {
+        "model-name": "Security",
+        "resource-file": "securities.json",
+        "table-name": "securities"
+    },
+    {
+        "model-name": "ProductFeature",
+        "resource-file": "product_features.json",
+        "table-name": "product_features"
+    },
+    {
+        "model-name": "ProductAmenity",
+        "resource-file": "product_amenities.json",
+        "table-name": "product_amenities"
+    },
+    {
+        "model-name": "ProductSecurity",
+        "resource-file": "product_securities.json",
+        "table-name": "product_securities"
+    },
+    {
+        "model-name": "Sponsore",
+        "resource-file": "sponsores.json",
+        "table-name": "sponsores"
+    },
+    {
+        "model-name": "View",
+        "resource-file": "views.json",
+        "table-name": "views"
+    },
+    {
+        "model-name": "ProductView",
+        "resource-file": "product_views.json",
+        "table-name": "product_views"
+    },
+    {
+        "model-name": "District",
+        "resource-file": "districts.json",
+        "table-name": "districts"
+    },
+    {
+        "model-name": "Commune",
+        "resource-file": "communes.json",
+        "table-name": "communes"
+    },
+    {
+        "model-name": "Village",
+        "resource-file": "villages.json",
+        "table-name": "villages"
+    },
+    {
+        "model-name": "Setting",
+        "resource-file": "settings.json",
+        "table-name": "settings"
+    },
+    {
+        "model-name": "Room",
+        "resource-file": "rooms.json",
+        "table-name": "rooms"
+    },
+    {
+        "model-name": "RoomPhoto",
+        "resource-file": "room_photos.json",
+        "table-name": "room_photos"
+    },
+    {
+        "model-name": "Package",
+        "resource-file": "packages.json",
+        "table-name": "packages"
+    },
+    {
+        "model-name": "Facility",
+        "resource-file": "facilities.json",
+        "table-name": "facilities"
+    },
+    {
+        "model-name": "Gallery",
+        "resource-file": "galleries.json",
+        "table-name": "galleries"
+    },
+    {
+        "model-name": "MenuBarGallery",
+        "resource-file": "menu_bar_galleries.json",
+        "table-name": "menu_bar_galleries"
+    },
+    {
+        "model-name": "Slide",
+        "resource-file": "slides.json",
+        "table-name": "slides"
+    },
+    {
+        "model-name": "PackagePhoto",
+        "resource-file": "package_photos.json",
+        "table-name": "package_photos"
+    }
+]
